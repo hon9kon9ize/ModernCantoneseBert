@@ -22,6 +22,15 @@ This model is intended for research and academic purposes in Cantonese natural l
 - **Research Purpose Only**: This project is intended for research and academic use. It may not be suitable for production environments without further evaluation and fine-tuning.
 - **Language Coverage**: The model is specifically trained on Cantonese text and may not perform well on other Chinese dialects or languages.
 
+## Training and Evaluation Data
+
+The model was trained on open source datasets and web-scraped content, including:
+
+- Cantonese filtered Common Crawl
+- Web scraped news and articles
+
+Due to respect for copyright, the training dataset will not be released.
+
 ## Quick Start
 
 ### Installation
