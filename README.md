@@ -6,6 +6,22 @@ A Cantonese BERT model based on the ModernBERT architecture, pre-trained on Cant
 
 ModernCantoneseBert is a BERT model specifically designed for Cantonese language understanding. It leverages the ModernBERT architecture from HuggingFace Transformers and is trained using masked language modeling (MLM) on Cantonese text data.
 
+## Intended Uses & Limitations
+
+### Intended Uses
+
+This model is intended for research and academic purposes in Cantonese natural language processing tasks, including:
+
+- Masked language modeling (fill-mask)
+- Feature extraction for downstream NLP tasks
+- Fine-tuning for Cantonese text classification, named entity recognition, and other sequence labeling tasks
+
+### Limitations
+
+- **Model Size**: The model has 134,004,544 trainable parameters, which is relatively small compared to larger language models. This may limit its performance on complex language understanding tasks.
+- **Research Purpose Only**: This project is intended for research and academic use. It may not be suitable for production environments without further evaluation and fine-tuning.
+- **Language Coverage**: The model is specifically trained on Cantonese text and may not perform well on other Chinese dialects or languages.
+
 ## Quick Start
 
 ### Installation
