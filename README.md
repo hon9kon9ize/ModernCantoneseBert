@@ -1,5 +1,7 @@
 # ModernCantoneseBert
 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ModernCantoneseBert--Base-blue)](https://huggingface.co/hon9kon9ize/ModernCantoneseBert-Base)
+
 A Cantonese BERT model based on the ModernBERT architecture, pre-trained on Cantonese text data.
 
 ## Model Description
