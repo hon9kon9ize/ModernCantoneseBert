@@ -1,0 +1,10 @@
+*.sh
+*.out
+__pycache__
+result
+wandb
+data
+.DS_Store
+cache
+models
+*.ipynb
